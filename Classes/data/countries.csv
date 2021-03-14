@@ -1,0 +1,195 @@
+,country,capital,acronym,tel,principal_language
+0,argentina,Buenos Aires,AR / ARG,+54,Espanhol
+1,bolívia,La Paz,BO / BOL,+591,"Aimará, Espanhol, Quíchua"
+2,brasil,Brasília,BR / BRA,+55,Português
+3,chile,Santiago,CL / CHL,+56,Espanhol
+4,colômbia,Bogotá,CO / COL,+57,Espanhol
+5,equador,Quito,EC / ECU,+593,Espanhol
+6,guiana,Georgetown,GY / GUY,+592,Inglês
+7,guiana francesa,Caiena,GF / GUF,+594 / 694,Francês
+8,paraguai,Assunção,PY / PRY,+595,"Espanhol, Guarani"
+9,peru,Lima,PE / PER,+51,"Aimará, Espanhol, Quíchua"
+10,suriname,Paramaribo,SR / SUR,+597,Holandês
+11,uruguai,Montevidéu,UY / URY,+598,Espanhol
+12,venezuela,Caracas,VE / VEN,+58,Espanhol
+0,canadá,Otawa,CA / CAN,1,"Francês, Inglês"
+1,estados unidos,Washington,US / USA,1,Inglês
+2,méxico,Cidade do México,MX / MEX,52,Espanhol
+0,antígua e barbuda,St. John's,AG / ATG,+1 268,
+1,bahamas,Nassau,BS / BHS,+1 242,Inglês
+2,barbados,Bridgetown,BB / BRB,+1 246,
+3,belize,Belmopan,BZ / BLZ,+501,Inglês
+4,bermudas,Hamilton,BM / BMU,+1 441,"Inglês, Português"
+5,costa rica,San José,CR / CRC,+506,Espanhol
+6,cuba,Havana,CU / CUB,+53,Espanhol
+7,dominica,Roseau,DM / DMA,+1 767,
+8,el salvador,San Salvador,SV / SLV,+503,Espanhol
+9,granada,St. George's,GD / GRD,+1 473,
+10,guatemala,Cidade da Guatemala,GT / GTM,+502,Espanhol
+11,haiti,Porto Príncipe,HT / HTI,+509,"Francês, Crioulo haitiano"
+12,honduras,Tegucigalpa,HN / HND,+504,Espanhol
+13,jamaica,Kingston,JM / JAM,+1 876,
+14,nicarágua,Manágua,NI / NIC,+505,Espanhol
+15,panamá,Cidade do Panamá,PA / PAN,+507,Espanhol
+16,porto rico,San Juan,PR / PRI,+1,Espanhol
+17,república dominicana,Santo Domingo,DO / DOM,+1 809,Espanhol
+18,santa lúcia,Castries,LC / LCA,+1 758,
+19,são cristóvão e nevis,Basseterre,KN / KNA,+1 869,Inglês
+20,são vicente e granadinas,Kingstown,VC / VCT,+784,Inglês
+21,trinidad e tobago,Port of Spain,TT / TTO,+1 868,Inglês
+0,albânia,Tirana,AL / ALB,355,Albanês
+1,alemanha,Berlim,DE / DEU,49,Alemão
+2,andorra,Andorra la Vella,AD / AND,376,Catalão
+3,armênia,Yerevan,AM / ARM,374,Arménio
+4,áustria,Viena,AT / AUT,43,
+5,azerbaijão,Baku,AZ / AZE,994,Azeri
+6,bélgica,Bruxelas,BE / BEL,32,"Alemão, Francês, Holandês"
+7,bielorrússia,Minsk,BY / BLR,375,"Bielorrusso, Russo"
+8,bósnia e herzegovina,Sarajevo,BA / BIH,387,"Bósnio, Croata, Sérvio"
+9,bulgária,Sófia,BG / BGR,359,Búlgaro
+10,chipre,Nicósia,CY / CYP,357,"Grego, Turco"
+11,croácia,Zagreb,HR / HRV,385,"Croata, Italiano"
+12,dinamarca,Copenhague,DK / DNK,45,Dinamarquês
+13,eslováquia,Bratislava,SK / SVK,421,Eslovaco
+14,eslovênia,Liubliana,SI / SVN,386,"Esloveno, Italiano"
+15,espanha,Madri,ES / ESP,34,Espanhol
+16,estônia,Tallinn,EE / EST,372,Estoniano
+17,finlândia,Helsinque,FI / FIN,358,Finlandês ou finês
+18,frança,Paris,FR / FRA,33,Francês
+19,geórgia,Tbilisi,GE / GEO,995,Georgiano
+20,grécia,Atenas,GR / GRC,30,Grego
+21,hungria,Budapeste,HU / HUN,36,Húngaro
+22,inglaterra,Londres,GB / GBR,44,Inglês
+23,irlanda,Dublin,IE / IRL,353,
+24,islândia,Reykjavik,IS / IS,354,
+25,itália,Roma,IT / ITA,39,Italiano
+26,letônia,Riga,LV / LVA,371,Letão
+27,liechtenstein,Vaduz,LI / LIE,423,Alemão
+28,lituânia,Vilnius,LT / LTU,370,Lituano
+29,luxemburgo,Luxemburgo,LU / LUX,352,Alemão
+30,macedônia,Skopje,MK / MKD,389,"Albanês, Macedônio"
+31,malta,Valletta,MT / MLT,356,
+32,moldávia,Chisinau,MD / MDA,373,Moldávio
+33,mônaco,Mônaco-Ville,MC / MCO,377,Francês
+34,noruega,Oslo,NO / NOR,47,Norueguês
+35,países baixos,Amsterdã,NL / NLD,31,"Frísio, Holandês"
+36,polônia,Varsóvia,PL / POL,48,Polonês ou Polaco
+37,portugal,Lisboa,PT / PRT,351,Português
+38,república checa,Praga,CZ / CZE,420,Checo
+39,romênia,Bucareste,RO / ROU,40,Romeno
+40,san marino,San Marino,SM / SMR,378,Italiano
+41,suécia,Estocolmo,SE / SWE,46,Sueco
+42,suíça,Berna,CH / CHE,41,"Alemão, Francês, Italiano, Romanche"
+43,ucrânia,Kiev,UA / UKR,380,"Russo, Ucraniano"
+44,vaticano,Cidade do Vaticano,VA / VAT,39,
+0,áfrica do sul,Pretória,ZA / ZAF,27,Inglês (e outras 10)
+1,angola,Luanda,AO / AGO,244,Português
+2,argélia,Argel,DZ / DZA,213,Árabe
+3,benin,Porto Novo,BJ / BEN,229,
+4,botsuana,Gaborone,BW / BWA,267,Inglês
+5,burkina faso,Uagadugu,BF / BFA,226,Francês
+6,burundi,Bujumbura,BI / BDI,257,Francês
+7,cabo verde,Praia,CV / CPV,238,Português
+8,camarões,Iaundé,CM / CMR,237,Francês
+9,chade,Ndjamena,TD / TCD,235,"Árabe, Francês"
+10,comores,Moroni,KM / COM,269,"Árabe, Francês"
+11,costa do marfim,Abidjan,CI / CIV,225,Francês
+12,djibouti,Djibuti,DJ / DJI,253,"Árabe, Francês"
+13,egito,Cairo,EG / EGY,20,Árabe
+14,eritreia,Asmara,ER / ERI,291,Árabe
+15,etiópia,Adis Abeba,ET / ETH,251,
+16,gabão,Libreville,GA / GAB,241,Francês
+17,gâmbia,Banjul,GM / GMB,220,Inglês
+18,gana,Acra,GH / GHA,233,
+19,guiné,Conacri,GN / GIN,224,Francês
+20,guiné equatorial,Malabo,GQ / GNQ,240,"Espanhol, Francês"
+21,guiné-bissau,Bissau,GW / GNB,245,Português
+22,lesoto,Maseru,LS / LSO,266,
+23,libéria,Monróvia,LR / LBR,231,
+24,líbia,Trípoli,LY / LBY,218,Árabe
+25,madagáscar,Antananarivo,MG / MDG,261,Francês
+26,malawi,Lilongue,MW / MWI,265,Inglês
+27,mali,Bamaco,ML / MLI,223,Francês
+28,marrocos,Rabat,MA / MAR,212,Árabe
+29,maurícia,Port Louis,MU / MUS,230,Francês
+30,mauritânia,Nuakchott,MR / MRT,222,Árabe
+31,moçambique,Maputo,MZ / MOZ,258,Português
+32,namíbia,Windhoek,NA / NAM,264,"Africâner, Inglês"
+33,niger,Niamei,NE / NER,227,
+34,nigéria,Abuja,NG / NGA,234,Inglês
+35,quênia,Nairobi,KE / KEN,254,"Inglês, Suaíli"
+36,república centro-africana,Bangui,CF / CAF,236,Francês
+37,república democrática do congo,Kinshasa,CD / COD,243,Francês
+38,república do congo,Brazzaville,CG / COG,242,Francês
+39,ruanda,Kigali,RW / RWA,250,Francês
+40,são tomé e príncipe,São Tomé,ST / STP,239,Português
+41,senegal,Dacar,SN / SEN,221,Francês
+42,serra leoa,Freetown,SL / SLE,232,
+43,seychelles,Vitória,SC / SYC,248,Francês
+44,somália,Mogadíscio,SO / SOM,252,"Árabe, Somali"
+45,suazilândia,Mbabane,SZ / SWZ,268,Suázi
+46,sudão,Cartum,SD / SDN,249,Árabe
+47,tanzânia,Dodoma,TZ / TZA,255,Suaíli
+48,togo,Lomé,TG / TGO,228,Francês
+49,tunísia,Túnis,TN / TUN,216,Árabe
+50,uganda,Campala,UG / UGA,256,
+51,zâmbia,Lusaka,ZM / ZMB,260,Inglês
+52,zimbabwe,Harare,ZW / ZWE,263,"Inglês, Shona, Ndebele"
+0,afeganistão,Cabul,AF / AFG,93,"Dari, Pachto, Persa"
+1,arábia saudita,Riad,SA / SAU,966,Árabe
+2,bahrein,Manama,BH / BHR,973,Árabe
+3,bangladesh,Daca,BD / BGD,880,Bengali
+4,brunei,Bandar Seri Begawan,BN / BRN,673,Malaio
+5,butão,Timfú,BT / BTN,975,Dzongkha
+6,camboja,Phnom Penh,KH / KHM,855,Khmer
+7,catar,Doha,QA / QAT,974,Árabe
+8,cazaquistão,Astana,KZ / KAZ,7,"Cazaque, Russo"
+9,china,Pequim,CN / CHN,86,"Chinês Mandarim, Mongol, Quirguiz"
+10,cingapura,Cingapura,SG / SGP,65,"Chinês Mandarim, Inglês, Malaio, Tâmil"
+11,coreia do norte,Pyongyang,KP / PRK,850,Coreano
+12,coreia do sul,Seul,KR / KOR,82,Coreano
+13,emirados árabes unidos,Abu Dhabi,AE / ARE,971,Árabe
+14,filipinas,Manila,PH / PHL,63,"Filipino, Inglês"
+15,iêmen,Sanaa,YE / YEM,967,Árabe
+16,índia,Nova Délhi,IN / IND,91,"Hindi, Inglês, Canará, Malaiala, Marata, Oriá, Punjabi"
+17,indonésia,Jacarta,ID / IDN,62,Indonésio
+18,irã,Teerã,IR / IRN,98,Persa
+19,iraque,Bagdá,IQ / IRQ,964,"Árabe, Curdo"
+20,israel,Telaviv,IL / ISR,972,"Árabe, Hebreu ou hebraico"
+21,japão,Tóquio,JP / JPN,81,Japonês
+22,jordânia,Amã,JO / JOR,962,Árabe
+23,kuwait,Cidade do Kuwait,KW / KWT,965,Árabe
+24,laos,Vientiane,LA / LAO,856,Laociano
+25,líbano,Beirute,LB / LBN,961,Árabe
+26,malásia,Kuala Lumpur,MY / MYS,60,"Chinês Mandarim, Inglês, Malaio, Tâmil"
+27,maldivas,Male,MV / MDV,960,Dhiveli
+28,mongólia,Ulan Bator,MN / MNG,976,Mongol
+29,myanmar,Naypyidaw,MM / MMR,95,Birmanês
+30,nepal,Katmandú,NP / NPL,977,Nepalês
+31,omã,Mascate,OM / OMN,968,Árabe
+32,paquistão,Islamabad,PK / PAK,92,Inglês
+33,quirguistão,Bishkek,KG / KGZ,996,Quirguiz
+34,rússia,Moscou,RU / RUS,7,Russo
+35,síria,Damasco,SY / SYR,963,Árabe
+36,sri lanka,Colombo,LK / LKA,94,"Cingalês, Tâmil"
+37,tailândia,Bangcoc,TH / THA,66,Tai
+38,taiwan,Taipé,TW / TWN,886,Chinês Mandarim
+39,tajiquistão,Dushanbe,TJ / TJK,992,"Persa, Tajique"
+40,turquemenistão,Ashkhabad,TM / TKM,993,Turcomeno
+41,turquia,Ancara,TR / TUR,90,Turco
+42,uzbequistão,Tashkent,UZ / UZB,998,Uzbeque
+43,vietname,Hanói,VN / VNM,84,Vietnamita
+0,austrália,Canberra,AU / AUS,61,"Inglês, Alemão"
+1,fiji,Suva,FJ / FJI,679,"Fijiano, Hindi, Inglês"
+2,ilhas marshall,Majuro,MH / MHL,692,
+3,ilhas salomão,Honiara,SB / SLB,677,
+4,kiribati,Bairiki,KI / KIR,686,Inglês
+5,micronésia,Palikir,FM / FSM,691,
+6,nauru,Yaren,NR / NRU,674,
+7,nova zelândia,Wellington,NZ / NZL,64,"Inglês, Maori"
+8,palau,Koror,PW / PLW,680,Japonês
+9,papua-nova guiné,Port Moresby,PG / PNG,675,"Hiri motu, Inglês, Tok Pisin"
+10,samoa,Ápia,WS / WSM,685,
+11,tonga,Nukualofa,TO / TON,676,
+12,tuvalu,Fongafale,TV / TUV,688,
+13,vanuatu,Porto Vila,VU / VUT,678,"Bislama, Francês"
